@@ -10,3 +10,7 @@ If you want to spend a weekend with us, giving your ideas a face in the form of 
 
 - What's the minimum/maximum team size?
 To participate in HackFest, you need to have a team of exactly 3 people.
+
+some relevent documents to read @shivam and @ayush
+1.https://nextjs.org/learn/foundations/from-react-to-nextjs/getting-started-with-nextjs
+2.https://nextjs.org/learn/foundations/about-nextjs?utm_source=next-site&utm_medium=homepage-cta&utm_campaign=next-website
